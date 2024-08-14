@@ -33,6 +33,8 @@ cd ../..
 
 # Open3D (visualization, optional)
 pip install open3d
+
+pip install einops==0.6.0
 ```
 
 
